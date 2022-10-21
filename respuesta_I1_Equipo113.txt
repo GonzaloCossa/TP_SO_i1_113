@@ -1,0 +1,15 @@
+﻿Gonzalo Cossa
+Augusto Delgado
+Jose Benavente
+
+Respuestas Interacción 1:
+
+a- ¿ALFA ve los datos que cargaron los demás en su repositorio?. Si, ALFA puede ver los datos de BETA y GAMMA.
+b- ¿Si ALFA agrega un archivo los demás integrantes lo ven?. Entre ALFA, BETA y GAMMA llegamos a la conclusión de que si, los demas integreantes lo pueden ver.
+
+c-¿Si BETA agrega un archivo los demás integrantes lo ven?
+
+Respusta: Si beta crea un arhivo, los demas integrantes pueden verlo sin problema 
+d-¿De qué forma se comunicaron ustedes?
+
+Respusta: Nos comunicamos atavez de un grupo de whatsapp dende estamos todos los integantes del grupo

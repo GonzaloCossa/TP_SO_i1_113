@@ -1,0 +1,15 @@
+Gonzalo Cossa
+IP: Dirección IPv4. . . . . . . . . . . . . . : 192.168.56.1
+
+Date: Fri Oct 21 11:56:07     2022
+
+Augusto Delgado
+IP: Direccion IPv4. . . . . . . . . . . . . . : 192.168.100.10
+
+Date: Fri Oct 21 11:49:08     2022
+
+Jose Benavente
+
+Dirección IPv4. . . . . . . . . . . . . . : 192.168.56.1
+
+Date: Fri Oct 21 12:01:52     2022
